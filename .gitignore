@@ -1,0 +1,11 @@
+.idea/
+.venv/
+License Plate Recognition.v4-resized640_aug3x-accurate.yolov8/
+models/
+sort/
+out.mp4
+sample.mp4
+test.csv
+test_interpolated.csv
+yolov8n.pt
+__pycache__/
